@@ -1,0 +1,24 @@
+{
+  "name": "dbexplorer",
+  "version": "1.0.0",
+  "description": "A database explorer app built in Electron",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^4.0.0-nightly.20181010"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Barratt@github.com/Barratt/dbexplorer.git"
+  },
+  "author": "Barratt & Vrondakis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barratt/dbexplorer/issues"
+  },
+  "homepage": "https://github.com/Barratt/dbexplorer#readme"
+}
