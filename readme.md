@@ -1,1 +1,1 @@
-This is the beginning of a new opensource project!
+This is the beginning of a new open source project!
